@@ -5,7 +5,7 @@ dependencyResolutionManagement {
         mavenCentral()
         jcenter() // Warning: this repository is going to shut down soon
         maven { url 'https://www.jitpack.io' }
-        maven { url 'Https://artifactory.appodeal.com/appodeal-public/' }
+        maven { url 'https://artifactory.appodeal.com/appodeal-public/' }
     }
 }
 rootProject.name = "Pixelify Google Photos"
